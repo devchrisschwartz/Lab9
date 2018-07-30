@@ -1,0 +1,7 @@
+D:\Programming\Grand Circus Bootcamp\Lab9\Lab9\bin\Debug\Lab9.exe.config
+D:\Programming\Grand Circus Bootcamp\Lab9\Lab9\bin\Debug\Lab9.exe
+D:\Programming\Grand Circus Bootcamp\Lab9\Lab9\bin\Debug\Lab9.pdb
+D:\Programming\Grand Circus Bootcamp\Lab9\Lab9\obj\Debug\Lab9.csprojAssemblyReference.cache
+D:\Programming\Grand Circus Bootcamp\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+D:\Programming\Grand Circus Bootcamp\Lab9\Lab9\obj\Debug\Lab9.exe
+D:\Programming\Grand Circus Bootcamp\Lab9\Lab9\obj\Debug\Lab9.pdb
